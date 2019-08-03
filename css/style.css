@@ -1,0 +1,136 @@
+
+.tag{
+    color:white;
+    font-weight: bold;
+    padding-top: 6px;
+}
+
+.header{
+    background-color: blue !important;
+    /* height: 38px; */
+}
+body{
+    overflow-x: hidden;
+}
+.navbar{
+    background-color: blue !important;
+}
+.nav-link{
+    color:white !important;
+    font-weight: bold;
+}
+
+.circle{
+    height: 80px;
+    width:80px;
+    border-radius:50%;
+    background-color: red;
+    /* align-content: center !important; */
+    padding: 10px;
+    
+}
+.circle>ion-icon{
+    color:white !important;
+    align-content: center !important;
+    border-radius: 2px !important;
+    border: solid !important;
+    height: 50px !important; 
+    /* position: relative ;  */
+}
+.text{
+    font-size: 40px;
+    text-align: center;
+}
+hr.horizontal{
+    line-height:  50px;   
+    width: 5%;
+    align-content: center;
+    /* height: 10px;
+    line-height: 10px; */
+    color: blue solid;
+}
+.next{
+    text-align: center;
+    /* font-weight: bold; */
+    font-size: 17px;
+}
+.BCA{
+    /* background-color: darksalmon; */
+    background-color: #ca8c80;
+    vertical-align: center;
+}
+.fontBcA{
+    /* color: darksalmon !important; */
+    color: #ca8c80 !important;
+    background-color: white !important;
+    font-size: 25px;
+}
+.fontBBM{
+    color: darkorchid !important;
+    background-color: white !important;
+    font-size: 25px;
+    vertical-align: center;
+
+}
+.fontBSCCSIT{
+    color: orangered !important;
+    /* background-color: white !important; */
+    font-size: 25px;
+}
+.BSCCSIT{
+    /* background-color: orangered; */
+    background-color: #ea4335;
+    vertical-align: center;
+}
+.BBM{
+    /* background-color: darkorchid ; */
+    background-color: #9e00c5;
+    vertical-align: center;
+}
+.fontBBS{
+    color:#fbbc05 !important;
+    background-color:white;
+    font-size:25px;
+}
+.BBS{
+    background-color: #fbbc05 !important;
+    vertical-align: center;
+}
+.MBS{
+    background-color: #2ca24c !important;
+    vertical-align:center;
+}
+.fontMBS{
+    color:#2ca24c !important;
+    background-color: white !important;
+    font-size:25px;
+}
+.fontBASW{
+    color:#3083ed !important;
+    font-size:25px;
+}
+.BASW{
+    background-color: #3083ed !important;
+    vertical-align:center;
+}
+#abc:hover,#icon{
+    background-color: black;
+    color: white !important;
+}
+
+.horizontal{
+    padding-bottom: 15px;
+    border-bottom: 2px solid blue;
+    
+}
+.MORE{
+    padding: 30px;
+}   
+.btn-default{
+    border:1px solid green !important;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+#icon{
+    display: none;
+}
